@@ -24,8 +24,6 @@ import com.google.android.material.snackbar.Snackbar
 class MainActivity : AppCompatActivity() {
 
     private val REQUEST_READ_CONTACTS: Int = 1231
-    var mobileArray = mutableListOf<String>()
-    var numberArray = mutableListOf<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
