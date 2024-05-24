@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Main Components</string>
-    <string name="stopped">Stopped</string>
-    <string name="started">Started</string>
     <string name="play_music">Play Music!</string>
+
+    <!-- Service -->
+    <string name="stopped">Start</string>
+    <string name="started">Stop</string>
+    <string name="channel_name">Foreground Service Channel</string>
+    <string name="channel_description">Notification channel for foreground service</string>
+    <string name="notification_title">Foreground Service Running</string>
+    <string name="notification_content">Your foreground service is running.</string>
 </resources>
